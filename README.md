@@ -22,7 +22,7 @@ DIAL:
 
 ```
 
-`goto` proves very useful in this case because it reduced the amount of code to handle all these exceptions.
+`goto` had proved very useful in this case because it reduced the amount of code to handle all these exceptions.
 
 ## Usage:
 
