@@ -1,2 +1,2 @@
 build:
-		go build -o getrun
+		go build -o ./bin/getrun
